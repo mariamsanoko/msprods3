@@ -7,5 +7,5 @@ import react from "@astrojs/react";
 export default defineConfig({
   integrations: [react()],
   site: 'https://mariamsanoko.github.io/msprods3',
-  base: '/msprods'
+  base: '/'
 });
