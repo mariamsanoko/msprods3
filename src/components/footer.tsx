@@ -7,13 +7,13 @@ export default function Footer() {
             <div className="copyright text-center text-sm text-muted text-lg-start">
               Copyright ©{" "}
               <script>document.write(new Date().getFullYear())</script>
-              &nbsp;Astro Ecommerce by 
+              &nbsp; MsProds Ecommerce by 
               <a
-                href="https://www.creative-tim.com"
+                href="https://www.msprods.fr/"
                 className="text-dark ms-1"
                 target="_blank"
               >
-                Creative Tim
+                Mariam SANOKO
               </a>
               .
             </div>
@@ -22,16 +22,16 @@ export default function Footer() {
             <ul className="nav nav-footer justify-content-center justify-content-lg-end">
               <li className="nav-item">
                 <a
-                  href="https://www.creative-tim.com"
+                  href="https://www.msprods.fr/"
                   className="nav-link text-sm text-muted"
                   target="_blank"
                 >
-                  Creative Tim
+                  Mariam SANOKO
                 </a>
               </li>
               <li className="nav-item">
                 <a
-                  href="https://www.creative-tim.com/presentation"
+                  href="#"
                   className="nav-link text-sm text-muted"
                   target="_blank"
                 >
@@ -40,7 +40,7 @@ export default function Footer() {
               </li>
               <li className="nav-item">
                 <a
-                  href="https://www.creative-tim.com/blog"
+                  href="https://www.mariamsanoko.fr/blog/"
                   className="nav-link text-sm text-muted"
                   target="_blank"
                 >
